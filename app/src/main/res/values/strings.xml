@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaEvaluable1</string>
+    <string name="nombre">Nombre :</string>
+    <string name="edad">Edad:</string>
+    <string name="telefono">Teléfono :</string>
+    <string name="ubicacion">Ubicación :</string>
+    <string name="editar">EDITAR</string>
+    <string name="verMaps">VER EN GOOGLE MAPS</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="obtener_coordenadas">Obtener Coordenadas</string>
+    <string name="escriba_nombre">Escriba Nombre</string>
+    <string name="escriba_telefono">Escriba Teléfono</string>
+    <string name="latitud">Latitud:</string>
+    <string name="longitud">Longitud:</string>
+    <string name="seekbar_defecto">18 años</string>
+    <string name="anyos">%s años</string>
+    <string name="usuarioBack">El usuario ha apretado back</string>
+    <string name="sin_datos">Sin datos</string>
+</resources>
